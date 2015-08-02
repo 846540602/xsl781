@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" additionalparam=" -encoding UTF-8&#13;&#10;-charset UTF-8" author="true" classpath="libs/android-support-v4.jar" destdir="C:\Users\Administrator\Desktop" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.esmartgym.xsl781.http.download,com.esmartgym.xsl781.db.model,com.esmartgym.xsl781.db.assit,com.esmartgym.xsl781.http,com.esmartgym.xsl781.ui.view,com.esmartgym.xsl781.utils,com.esmartgym.xsl781.http.core,com.esmartgym.xsl781.db.annotation,com.esmartgym.xsl781.db.impl,com.esmartgym.xsl781.db,com.esmartgym.xsl781.ui,com.esmartgym.xsl781.db.utils" source="1.7" sourcefiles="src/com/esmartgym/xsl781/BaseActivity.java,src/com/esmartgym/xsl781/Http.java,src/com/esmartgym/xsl781/BaseFragmentActivity.java,src/com/esmartgym/xsl781/BaseApp.java,src/com/esmartgym/xsl781/App.java,src/com/esmartgym/xsl781/DB.java" sourcepath="src;gen" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
